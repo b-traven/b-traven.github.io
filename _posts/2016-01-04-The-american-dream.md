@@ -1,5 +1,4 @@
 ---
-profile: default
 title: The American Dream
 ---
 
