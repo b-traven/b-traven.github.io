@@ -1,7 +1,7 @@
 ---
-title: The American Dream
+profile:default
 ---
-
+<p>
 	The most important part of the American dream is the idea that anyone who works hard enough and long enough, will succeed, and once you succeed you can contribute to society. These successful people are seen as the most important to the development of society, and some are rewarded for their actions with wealth beyond their imagination. Wealth grants you true freedom in America; with it you can control everything from which laws get passed, to what poorer people or you can do for a living. This helps to incentivize some people who haven't succeeded yet to go and contribute to society until they too are granted the freedom they desire. This core principle is great in theory, but in practice the unfortunate outcome is that often people work extremely hard all their lives, and aren't properly rewarded for their efforts or their contributions, or are never given the opportunity to succeed in the first place. 
 
 	The American dream is not real. The ability to contribute is not simply rewarded to the people who work the hardest. Many people are never given the opportunity or the resources to contribute. The truth is that you have to be a person who has the most opportunity, luck, and yes… motivation. Such people contribute the most to society, but it would be impossible for them to contribute without a combination of all three of these things.  
@@ -12,3 +12,4 @@ title: The American Dream
 
 	 The American dream is just that, a dream, and nothing more. The factors that contribute toward the success of individuals are immense: luck, opportunity, and effort should all be seen at least as equal to one another. The America dream for far too many is a nightmare of unequal opportunity, luck, and freedom for the rich.
 
+</p>
