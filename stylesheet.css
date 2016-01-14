@@ -11,7 +11,7 @@ header {
 	font-family: century, sans-serif;
 	color: #9BC1BC;
 	font-size: 4.8em/6.48em;
-	margin-bottom: 5em;
+	margin-bottom: 2.5em;
 }
 
 body {
@@ -23,7 +23,7 @@ body {
 table {
 	border: solid;
 	border-radius: 5px;
-	border-width: 2px;
+	border-width: 1px;
 	color: #5CA4A9;
 	width: 39.125em;
 }
