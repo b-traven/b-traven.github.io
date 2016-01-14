@@ -40,6 +40,11 @@ table {
 	width: 40em;
 }
 
+ul {
+	list-style-type: none;
+	text-align:center ;
+}
+
 div {
 	text-align:center;
 }
