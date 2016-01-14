@@ -23,6 +23,7 @@ body {
 table {
 	border: solid;
 	border-radius: 5px;
+	border-size: 2px;
 	color: #5CA4A9;
 	width: 39.125em;
 }
