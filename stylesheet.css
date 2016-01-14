@@ -16,6 +16,14 @@ body {
 	text-decoration: none;
 }
 
+table {
+	border: dashed;
+	color: #5BC0EB;
+	
+	
+}
+
+
 div {
 	text-align:center;
 }
