@@ -7,12 +7,19 @@ html {
 	background-color: #c0dfd9;
 }
 
-header {
+h1 {
 	font-family: Montserrat, sans-serif;
 	color: #e9ece5;
 	font-size: 1.62em;
 	margin-bottom: 2.5em;
 	font-style: italic;
+}
+
+nav {
+	text-align: center;
+	text-decoration: none;
+	font-family: sans-serif;
+	color: #3b3a36;
 }
 
 body {
