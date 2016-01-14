@@ -4,12 +4,12 @@ html {
 	padding:0 .62em;
 	font:1.2em/1.62em;
 	text-align: center;
-	background-color: #E6EBE0;
+	background-color: #e9ece5;
 }
 
 header {
 	font-family: century, sans-serif;
-	color: #9BC1BC;
+	color: #c0dfd9;
 	font-size: 4.8em/6.48em;
 	margin-bottom: 2.5em;
 }
@@ -18,13 +18,14 @@ body {
 	text-align: center;
 	text-decoration: none;
 	font-family: sans-serif;
+	color: #3b3a36;
 }
 
 table {
 	border: solid;
 	border-radius: 5px;
 	border-width: 1px;
-	color: #5CA4A9;
+	color: #b3c2bf;
 	width: 39.125em;
 }
 
@@ -34,5 +35,5 @@ div {
 
 a {
 	text-decoration:none;
-	color:#000000;
+	color:#3b3a36;
 }
