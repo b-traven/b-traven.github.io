@@ -2,9 +2,11 @@
 layout: default
 ---
 <table>
+  <tr>
   {% for post in site.posts %}
     <td>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </td>
   {% endfor %}
+  <tr>
 </table>
