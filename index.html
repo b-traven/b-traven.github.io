@@ -1,10 +1,10 @@
 ---
 layout: default
 ---
-<table>
+<ul>
   {% for post in site.posts %}
-    <tc>
+    <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
-    </tc>
+    </li>
   {% endfor %}
-</table>
+</ul>
