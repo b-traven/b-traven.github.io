@@ -22,6 +22,7 @@ body {
 
 table {
 	border: dashed;
+	border-radius: 5px;
 	color: #5BC0EB;
 	width: 40em;
 	
