@@ -30,6 +30,11 @@ body {
 	color: #3b3a36;
 }
 
+a {
+	text-decoration:none;
+	color:#3b3a36;
+}
+
 nav {
 	text-align: center;
 	text-decoration: none;
@@ -44,17 +49,7 @@ table {
 	border-width: 1px;
 	color: #b3c2bf;
 	width: 40em;
-	
 	list-style-type: none;
 	text-align: center ;
 	margin: 0, auto;
-}
-
-div {
-	text-align:center;
-}
-
-a {
-	text-decoration:none;
-	color:#3b3a36;
 }
