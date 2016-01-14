@@ -3,11 +3,9 @@ html {
 	max-width: 40em;
 	padding:0 .62em;
 	font:1.2em/1.62em;
-	font-family: sans-serif;
 	text-align: center;
 	background-color: #E6EBE0;
 }
-
 
 header {
 	font-family: century gothic, sans-serif;
@@ -26,9 +24,7 @@ table {
 	border-radius: 5px;
 	color: #5CA4A9;
 	width: 40em;
-	
 }
-
 
 div {
 	text-align:center;
