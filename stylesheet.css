@@ -8,7 +8,7 @@ html {
 }
 
 header {
-	font-family: century gothic, sans-serif;
+	font-family: century, sans-serif;
 	color: #9BC1BC;
 	font-size: 4.8em/6.48em;
 	margin-bottom: 5em;
@@ -23,7 +23,7 @@ body {
 table {
 	border: solid;
 	border-radius: 5px;
-	border-size: 2px;
+	border-width: 2px;
 	color: #5CA4A9;
 	width: 39.125em;
 }
