@@ -19,8 +19,12 @@ nav {
 	text-decoration: none;
 	font-family: Georgia, sans-serif;
 	color: #3b3a36;
+}
+
+hr{
 	margin-bottom: 2.5em;
 }
+
 
 body {
 	text-align: center;
