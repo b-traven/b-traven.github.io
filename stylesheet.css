@@ -11,21 +11,20 @@ header {
 	font-family: century gothic, sans-serif;
 	color: #9BC1BC;
 	font-size: 4.8em/6.48em;
+	margin-bottom: 10em;
 }
 
 body {
 	text-align: center;
 	text-decoration: none;
 	font-family: sans-serif;
-	margin-top: 10em auto;
-	
 }
 
 table {
 	border: solid;
 	border-radius: 5px;
 	color: #5CA4A9;
-	width: 39.125em auto;
+	width: 39.125em;
 }
 
 div {
