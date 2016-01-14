@@ -47,6 +47,12 @@ nav {
 	
 }
 
+nav div {
+	margin-top: 1em auto;
+	max-width: 40em;
+	padding: 0.62em;
+}
+
 table {
 	border: solid;
 	border-radius: 5px;
