@@ -31,8 +31,9 @@ body {
 }
 
 a {
-	text-decoration:none;
-	color:#3b3a36;
+	text-align: center;
+	text-decoration: none;
+	color: #3b3a36;
 }
 
 nav {
