@@ -6,6 +6,8 @@
 	text-align: center;
 	display: block;
     	margin: 0 auto;
+    	width: 10em;
+    	height: 10em;
 }
 
 #post_title {
