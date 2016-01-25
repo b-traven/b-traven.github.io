@@ -2,4 +2,4 @@
 layout: default
 title: Incentives
 ---
-<h1>Incentives</h1>
+<h1 id=post_title>Incentives</h1>
