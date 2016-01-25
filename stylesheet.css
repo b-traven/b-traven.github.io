@@ -15,18 +15,6 @@
 	text-align: center;
 }
 
-#list {
-	border: solid;
-	border-radius: 5px;
-	border-width: 1px;
-	color: #b3c2bf;
-	width: 40em;
-	list-style-type: none;
-	text-align: center ;
-	margin: 0, auto;
-	text-decoration: none;
-}
-
 body {
 	margin: 1em auto;
 	max-width: 40em;
@@ -51,4 +39,21 @@ nav {
 	font-family: Georgia, sans-serif;
 	color: #3b3a36;
 	margin-bottom: 2.5em
+}
+
+ul {
+	 padding: 0;
+	 list-style-type: none;
+}
+
+li {
+	border: solid;
+	border-radius: 5px;
+	border-width: 1px;
+	color: #b3c2bf;
+	width: 40em;
+	list-style-type: none;
+	text-align: center ;
+	margin: 0, auto;
+	text-decoration: none;
 }
