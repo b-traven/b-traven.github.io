@@ -5,7 +5,7 @@
 
 #post_title {
 	font-family: Open Sans, sans-serif;
-	color: #3b3a36;
+	color: #444444;
 	font-size: 1.2em;
 	font-style: italic;
 	text-align: center;
@@ -24,20 +24,20 @@ body {
 	text-align: left;
 	text-decoration: none;
 	font-family: Georgia, sans-serif;
-	color: #3b3a36;
+	color: #444444;
 }
 
 a {
 	text-align: center;
 	text-decoration: none;
-	color: #3b3a36;
+	color: #444444;
 }
 
 nav {
 	text-align: center;
 	text-decoration: none;
 	font-family: Georgia, sans-serif;
-	color: #3b3a36;
+	color: #444444;
 	margin-bottom: 1.5em
 }
 
@@ -50,7 +50,7 @@ li {
 	border: solid;
 	border-radius: 5px;
 	border-width: 1px;
-	color: #958B7C;
+	color: #444444;
 	width: 40em;
 	list-style-type: none;
 	text-align: center ;
@@ -61,5 +61,5 @@ li {
 
 div{
 	font-family: Georgia, sans-serif;
-	color: #3b3a36;
+	color: #444444;
 }
