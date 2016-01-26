@@ -59,13 +59,8 @@ li {
 	margin-bottom: .5em;
 }
 
-div{
-	margin: 1em auto;
-	max-width: 40em;
-	padding: 0.62em;
+#posts_title_home{
 	font:1.2em;
-	background-color: #c0dfd9;
-	text-align: left;
 	text-decoration: none;
 	font-family: Georgia, sans-serif;
 	color: #3b3a36;
